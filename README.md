@@ -3,4 +3,4 @@ Repo made to refactor the "Horiseon" demo webpage. Changes were made in order to
 
 Link to webpage:[Horiseon Demo](https://mayo-mm.github.io/Horiseon-Demo-Site/)
 
-![image](Develop/assets/images/Horiseon-Web-Strategies.png)
+![image](Develop/assets/images/Horiseon-Web-Strategies.jpg)
